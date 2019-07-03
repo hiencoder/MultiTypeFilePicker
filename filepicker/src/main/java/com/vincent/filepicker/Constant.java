@@ -26,4 +26,8 @@ public class Constant {
 
     public static final int REQUEST_CODE_PICK_FILE = 0x400;
     public static final String RESULT_PICK_FILE = "ResultPickFILE";
+
+    public static final int REQUEST_CODE_PICK_MEDIA = 0x500;
+    public static final String RESULT_PICK_MEDIA = "ResultPickMedia";
+    public static final int REQUEST_CODE_TAKE_MEDIA = 0x501;
 }

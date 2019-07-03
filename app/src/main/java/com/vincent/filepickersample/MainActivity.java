@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         new String[] {"xlsx", "xls", "doc", "dOcX", "ppt", ".pptx", "pdf"});
                 startActivityForResult(intent4, Constant.REQUEST_CODE_PICK_FILE);
                 break;
+
         }
     }
 
